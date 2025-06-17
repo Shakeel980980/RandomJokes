@@ -43,7 +43,7 @@ body {
 .getjock {
   width: 200px;
   height: 30px;
-  background-color: orange;
+  background-color: rgb(248, 210, 140);
   color: black;
   border: none;
   border-radius: 0.2rem;
